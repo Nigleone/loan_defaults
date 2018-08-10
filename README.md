@@ -1,3 +1,3 @@
 # loan_defaults
 data from legend
-https://nbviewer.jupyter.org/
+在https://nbviewer.jupyter.org/查看
